@@ -54,8 +54,6 @@ print(personne['age'])
 couleurs = {"rouge", "vert", "bleu", "rouge"}
 print(couleurs)  # {'rouge', 'vert', 'bleu'}
 
-
-
 #application
 nbr1 = 25
 nbr2 = "15"
