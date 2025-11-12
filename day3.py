@@ -37,4 +37,4 @@ else:
 prenom = input('entrez votre prénom')
 liste_prenoms = ['Alice', 'Bob', 'Chloé', 'David']
 if prenom in liste_prenoms:
-    print(prenom, 'est dans la liste')
+    print(prenom, 'est dans la liste des prénoms')
